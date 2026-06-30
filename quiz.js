@@ -43,13 +43,13 @@ wrong:"Close! I'm actually 170 cm!"
 {
 question:"What's Mana's MBTI?",
 
-choices:["ESFJ","ENFP","ENFJ"],
+choices:["ESFJ","ENFP","ENTP"],
 
-answer:"ENFJ",
+answer:"ENFP",
 
-correct:"Leaderrr~ ENFJ!! ",
+correct:"You're correct! I retook the test and i got ENFP!! ",
 
-wrong:"Nope! It's ENFJ!"
+wrong:"Nope! It's ENFP!"
 },
 
 {
